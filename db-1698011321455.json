@@ -1,0 +1,102 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Abemelek",
+      "email": "kidabemelek@gmail.com",
+      "password": "VueJs@json1234"
+    },
+    {
+      "name": "Abrsh",
+      "email": "abrsh6266@gmail.com",
+      "password": "VueJs@abrsh1234",
+      "id": 2
+    },
+    {
+      "name": "Abemelek Daniel",
+      "email": "kidabemelek@gmail.com",
+      "password": "Abe@be1994",
+      "id": 3
+    },
+    {
+      "name": "Kidus Birhane",
+      "email": "kidusbirhane9@gmail.com",
+      "password": "Kidus@be1994",
+      "id": 4
+    },
+    {
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "Admin@be1994",
+      "id": 5
+    },
+    {
+      "name": "edenorbetty",
+      "email": "edenorbetty@gmail.com",
+      "password": "Eden@be1994",
+      "id": 6
+    },
+    {
+      "name": "Serawit Sisay",
+      "email": "new94abemelek@gmail.com",
+      "password": "Serawit@be1994",
+      "id": 7
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "Oscar  Burger",
+      "contact": 11235,
+      "address": "Gergi Bole",
+      "id": 1
+    },
+    {
+      "name": "AskHd Chinniss Food",
+      "contact": 36271,
+      "address": "Harar shenkor",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Fiker Asa",
+      "contact": 78423,
+      "address": "Bahir Dar ,Tina"
+    },
+    {
+      "name": "Honest Teste",
+      "contact": 23465,
+      "address": "4killo ",
+      "id": 4
+    },
+    {
+      "name": "Romita",
+      "contact": 8945,
+      "address": "selase",
+      "id": 5
+    },
+    {
+      "name": "Sheger Louge",
+      "contact": 98343,
+      "address": "Mariam",
+      "id": 6
+    },
+    {
+      "name": "Join Burger",
+      "contact": 96834,
+      "address": "6 kilo",
+      "id": 7
+    },
+    {
+      "name": "Fresh Touch",
+      "contact": 96749,
+      "address": "Harar , Mobile",
+      "id": 8
+    },
+    {
+      "name": "Peace Pizza",
+      "contact": 45667,
+      "address": "Nowhere",
+      "id": 9
+    }
+  ]
+}
